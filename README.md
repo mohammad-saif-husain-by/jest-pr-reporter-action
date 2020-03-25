@@ -2,7 +2,7 @@
 
 This action comments a pull request with the jest code coverage
 
-![jest-reporter-action](https://imgur.com/ustWwwN.png)
+![jest-reporter-action]
 
 ## Inputs
 
